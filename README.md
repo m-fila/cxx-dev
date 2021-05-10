@@ -8,7 +8,7 @@
 ## Getting started:
 
 ```
-docker push mfila/cxx-dev:latest
+docker pull mfila/cxx-dev:latest
 ```
 
 Base image: [debian:buster-slim](https://hub.docker.com/_/debian).
